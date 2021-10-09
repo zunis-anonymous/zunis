@@ -1,7 +1,7 @@
 ZüNIS: Normalizing flows for neural importance sampling
 ==============================
 
-ZüNIS Pytorch-based library for Monte-Carlo integration
+ZüNIS is a Pytorch-based library for Monte-Carlo integration
  based on Neural imporance sampling [[1]](https://arxiv.org/abs/1808.03856).
 In simple terms, we use artificial intelligence to compute integrals faster.
 

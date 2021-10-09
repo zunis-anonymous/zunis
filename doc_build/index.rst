@@ -5,7 +5,7 @@ ZüNIS documentation
 ###################
 
 
-ZüNIS is Pytorch-based library for Monte-Carlo integration
+ZüNIS is a Pytorch-based library for Monte-Carlo integration
 based on Neural imporance sampling `[1]`_.
 In simple terms, we use artificial intelligence to compute integrals faster.
 
